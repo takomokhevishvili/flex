@@ -1,0 +1,7 @@
+.navigation {
+    display: flex;
+    color: gray;
+}
+.nav-logo {
+    display: flex;
+}
